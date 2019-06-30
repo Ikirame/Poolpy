@@ -1,0 +1,3 @@
+Press TAB to see your Inventory and your Recipe
+
+Press SPACE to jump over the obstacles

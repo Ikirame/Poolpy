@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Bound
+  - Enemy
+  - Heart
+  - Chest
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - MovingPlatform
+  - Enemy
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2538218369
+    locked: 0
+  - name: Foreground
+    uniqueID: 1798411153
+    locked: 0
+  - name: UI
+    uniqueID: 51004819
+    locked: 0
+  - name: Foreground
+    uniqueID: 2760009755
+    locked: 0
+  - name: Body
+    uniqueID: 2299702917
+    locked: 0
+  - name: FrontofBody
+    uniqueID: 2335351471
+    locked: 0

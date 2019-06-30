@@ -27,7 +27,7 @@ This project requires packages. If you are on MacOS you can download this packag
 * Cloning
 
 ```bash
-# Clone the repository
+# Cloning the repository
 git clone https://github.com/Ikirame/Poolpy.git
 ```
 

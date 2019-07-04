@@ -50,5 +50,5 @@ In progress...
 # Authors
 
 * **Marie Schindler** - [Luciol]()
-* **Victor Kern** - [Tofufu16](https://github.com/Tofufu16)
+* **Victor Kern** - [VictorKern](https://github.com/VictorKern)
 * **Valentin Gérard** - [Ikirame](https://github.com/Ikirame)

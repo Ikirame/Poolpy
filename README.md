@@ -43,10 +43,6 @@ Now the project is added to your Unity Hub, the last thing to do is to double cl
 
 In progress...
 
-# Contributing
-
-In progress...
-
 # Authors
 
 * **Marie Schindler** - [Luciol]()

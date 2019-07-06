@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 This project requires packages. If you are on MacOS you can download this packages directly from your package manager. Otherwise, if you are on Windows you can download the packages from the official websites.
 
 * Unity (https://unity.com / version <= 2018.3.7f1)
-* Visual Studio 2019 (https://visualstudio.microsoft.com/vs/)
+* Rider (https://www.jetbrains.com/rider/)
 * Git (https://git-scm.com/)
 
 ### Installation

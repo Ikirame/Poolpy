@@ -31,17 +31,13 @@ This project requires packages. If you are on MacOS you can download this packag
 git clone https://github.com/Ikirame/Poolpy.git
 ```
 
-* Building
+# Usage
 
 ```
 From here, you can now open the project with Unity. 
 To do this, inside the Unity Hub, you can click on the button "Add" and select the folder where the repository has been cloned.
 Now the project is added to your Unity Hub, the last thing to do is to double click on it to open it.
 ```
-
-# Usage
-
-In progress...
 
 # Authors
 
